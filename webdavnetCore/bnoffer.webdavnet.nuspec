@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata minClientVersion="">
+    <id>bnoffer.webdavnet</id>
+    <version>2.0.0</version>
+    <title></title>
+    <authors>tloehlein, ChristianSchaefer, bnoffer</authors>
+    <owners>bnoffer</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>WebDAVNet is a client library for interacting with WebDAV written in C#</description>
+    <summary></summary>
+    <releaseNotes></releaseNotes>
+    <copyright>Bastian Noffer</copyright>
+    <language></language>
+    <tags></tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="bnoffer.webclient" version="2.0.0"/>
+      </group>
+    </dependencies>
+  </metadata>
+</package>

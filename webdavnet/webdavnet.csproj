@@ -12,7 +12,7 @@
     <TargetFrameworkProfile>Profile111</TargetFrameworkProfile>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <Description> WebDAVNet is a client library for interacting with WebDAV written in C#.</Description>
-    <ReleaseVersion>0.1.0</ReleaseVersion>
+    <ReleaseVersion>0.3</ReleaseVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>

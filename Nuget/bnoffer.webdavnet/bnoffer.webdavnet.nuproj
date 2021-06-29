@@ -16,7 +16,7 @@
     <UsePartialTypes>false</UsePartialTypes>
     <AssemblyName>bnoffer.webdavnet</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
-    <ReleaseVersion>0.1.0</ReleaseVersion>
+    <ReleaseVersion>0.3</ReleaseVersion>
     <Owners>bnoffer</Owners>
     <Copyright>©2017 Bastian Noffer</Copyright>
     <PackageTags>WebDAV</PackageTags>
